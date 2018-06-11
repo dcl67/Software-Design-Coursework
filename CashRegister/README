@@ -1,0 +1,10 @@
+Junit Lab for Drexel CS350
+Daniel Lopez - dcl67
+
+Bug locations:
+CoinPack.java - line 56
+Drawer.java - line 51 & 52
+Drawer.java - line 117 & 118
+
+Notes:
+CashRegister.java has 99.7% coverage. Line 168: 1 of 2 branches missed

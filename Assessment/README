@@ -1,0 +1,12 @@
+Daniel Lopez - dcl67
+
+Saving method: Handled through serialization and deserialization
+Saved file location: ".", or Assessment's root
+
+Notes: Some Scanner.newLine() prompts in the menu will pick up on new line characters, other times won't, thus prompting for input twice in some instances within the program. 
+
+What doesn't work: Tabulating tabulates all answers and responses, but doesn't sort them properly per corresponding question.
+
+Assessment application pt. 1 - creating, saving, loading, and displaying.
+Assessment application pt. 2 - modifying, taking, saving responses, grading, tabulating.
+Assessment application pt. 3 - Survey code sees nothing mentioning test, correct answer, or grade.
